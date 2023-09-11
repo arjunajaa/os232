@@ -19,3 +19,20 @@ ZCZC W00 150 L82 Reading Book (paper or online)
 ZCZC W00 3360 L84 Relax, Rest, Nap, and Sleep
 ZCZC W00 315 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W00 70 L88 Workout/Sport/Exercise/ETC
+ZCZC W01 1500 L01 SCELE/Discord related
+ZCZC W01 570 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 300 L03 Github related
+ZCZC W01 15 L04 GitHub Pages related
+ZCZC W01 20 L05 Quiz related including studying
+ZCZC W01 600 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 420 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W01 360 L11 Assignment #01
+ZCZC W01 3600 L21 Trying something
+ZCZC W01 30 L41 TXT/mylog.txt related
+ZCZC W01 100 L64 Helping a friend (OS related problem)
+ZCZC W01 150 L70 Studying for other courses.
+ZCZC W01 30 L73 Gaming including Board Games.
+ZCZC W01 90 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 120 L82 Reading Book (paper or online)
+ZCZC W01 3360 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 315 L87 Breakfast/Lunch/Dinner/Snake
