@@ -13,5 +13,6 @@ These commands will help you list PCI devices, view information about your CPU, 
   Introduces and explains the significance of TMUX, a versatile terminal multiplexer tool.
   In conclusion, TMUX is a powerful terminal multiplexer that enhances your workflow by maintaining persistent sessions and providing features like splits and tabs.
   With easy installation and basic commands like detachment and reattachment, you can quickly harness the benefits of TMUX for efficient terminal management.
+  In the channel, there are actually 5 parts.
 <br>
 <hr>
