@@ -14,5 +14,6 @@ These commands will help you list PCI devices, view information about your CPU, 
   In conclusion, TMUX is a powerful terminal multiplexer that enhances your workflow by maintaining persistent sessions and providing features like splits and tabs.
   With easy installation and basic commands like detachment and reattachment, you can quickly harness the benefits of TMUX for efficient terminal management.
   In the channel, there are actually 5 parts
+* [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8) --- Discusses the evolution of operating systems (OSes), highlighting their crucial role in managing computer resources and facilitating program execution. It traces the development of early OSes from batch processing to multitasking and the introduction of features like memory protection and virtualization, emphasizing the significance of OSes in ensuring stability and resource allocation in modern computing. Additionally, it mentions the influence of Unix and its lean kernel design, as well as the transition to personal computers with OSes like MS-DOS and Windows, ultimately leading to the sophisticated multitasking and memory management of contemporary OSes.
 <br>
 <hr>
