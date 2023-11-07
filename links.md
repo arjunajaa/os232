@@ -19,5 +19,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [30 BASIC COMMANDS IN LINUX / UNIX ](https://www.youtube.com/watch?v=rFwdniyo0CM) --- In the video, the presenter covers essential Linux/Unix commands, highlighting their usage and importance. The conclusion emphasizes that these commands are fundamental for anyone working with Linux/Unix systems, making them essential knowledge for computer science students and professionals. Watching the video provides a comprehensive overview of these critical commands, helping viewers become more proficient in Linux/Unix environments.
 * [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) --- This website is very suitable for beginners in learning file management in Linux systems. There are several ways and instructions to apply
 * [Remove Directory in Linux: How to Delete Files and Folders](https://www.hostinger.com/tutorials/how-to-remove-files-and-folders-using-linux-command-line/) --- This website is very helpful for users who often try things and delete them again.
+* [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
+A great introduction into computer security made by University of California Santa Cruz.
 <br>
 <hr>
