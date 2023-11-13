@@ -21,5 +21,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Remove Directory in Linux: How to Delete Files and Folders](https://www.hostinger.com/tutorials/how-to-remove-files-and-folders-using-linux-command-line/) --- This website is very helpful for users who often try things and delete them again.
 * [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
 A great introduction into computer security made by University of California Santa Cruz.
+* [What to do in case of a Linux kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)<br>
+Explanation of what a kernel panic is and how to troubleshoot one.
 <br>
 <hr>
