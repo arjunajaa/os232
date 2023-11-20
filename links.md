@@ -23,5 +23,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 A great introduction into computer security made by University of California Santa Cruz.
 * [What to do in case of a Linux kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)<br>
 Explanation of what a kernel panic is and how to troubleshoot one.
+* [Moving to the end of line in vi](https://stackoverflow.com/questions/105721/how-do-i-move-to-end-of-line-in-vim) -- It's very important to know shortcut. We can use `$' (dollar sign) key to move to the end of the line.
 <br>
 <hr>
