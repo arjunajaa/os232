@@ -1,3 +1,17 @@
+ZCZC W09 1300 L01 SCELE/Discord related (checking resources and assignments for a week)
+ZCZC W09 500 L02 CLASSROOM/ZOOM meetings related (lectures and organizational activities for a week)
+ZCZC W09 600 L03 Github related (for a week)
+ZCZC W09 40 L04 GitHub Pages related
+ZCZC W09 15 L05 Quiz related including studying
+ZCZC W09 60 L06 References/Books/Documents/Browsing/GSGS related (for a week)
+ZCZC W09 300 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. (for a week)
+ZCZC W09 300 L19 Assignment #09
+ZCZC W09 2740 L21 Trying something (for a week)
+ZCZC W09 30 L41 TXT/mylog.txt related (for a week)
+ZCZC W09 30 L64 Helping a friend (OS related problem) (for a week)
+ZCZC W09 300 L70 Studying for other courses. (for a week)
+ZCZC W09 3100 L84 Relax, Rest, Nap, and Sleep (for a week)
+ZCZC W09 270 L87 Breakfast/Lunch/Dinner/Snake (for a week)
 ZCZC W08 1400 L01 SCELE/Discord related (checking resources and assignments for a week)
 ZCZC W08 530 L02 CLASSROOM/ZOOM meetings related (lectures and organizational activities for a week)
 ZCZC W08 320 L03 Github related (for a week)
